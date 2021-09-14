@@ -29,7 +29,11 @@ picture 1
 
 picture 2
 
-![Screen Shot 2021-09-14 at 2 29 49 pm](https://user-images.githubusercontent.com/84853445/133195341-31e747f7-68bd-45ba-b155-22d23584426c.png)
+![Screen Shot 2021-09-14 at 3 14 56 pm](https://user-images.githubusercontent.com/84853445/133198910-c5d515e4-cc4d-49b8-9335-3ea569576627.png)
+
+picture 3
+
+![Screen Shot 2021-09-14 at 3 16 34 pm](https://user-images.githubusercontent.com/84853445/133199035-8c4b303b-1f7e-4b49-9345-538628f3ec75.png)
 
 # final step 
 have fun 
