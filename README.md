@@ -19,9 +19,9 @@ open up the the terminal and ``cd`` to the folder
 ![Screen Shot 2021-09-14 at 2 23 02 pm](https://user-images.githubusercontent.com/84853445/133194695-3abd33b7-5ff8-4a1a-b162-209a83dde3ed.png)
 
 # step 3 
-``chmod 755`` the document file 
+``chmod 755`` the ``airshipper`` file 
 
-(i have included more then 1 picture in this step to show you what i mean) 
+(i have included more then one picture in this step to show you what i mean) 
 
 picture 1
 
